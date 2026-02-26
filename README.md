@@ -16,7 +16,11 @@ La Programación Orientada a Objetos es un paradigma que nos permite organizar e
 
 ​4. Los Pilares de la POO
 ​Para que un sistema sea robusto, la POO se basa en cuatro reglas:
+
 ​Herencia: Permite crear una clase nueva a partir de una existente. Una clase Gato puede heredar de Animal, ahorrando código.
+
 ​Encapsulamiento: Protege los datos internos para que no se modifiquen por error desde fuera (usando guiones bajos como _password).
+
 ​Abstracción: Oculta la complejidad. Tú sabes usar el método conducir(), pero no necesitas saber cómo funciona la inyección de combustible por dentro.
+
 ​Polimorfismo: Diferentes objetos pueden usar un método con el mismo nombre pero comportarse distinto (un Circulo y un Cuadrado tienen el método dibujar(), pero el resultado es diferente).
