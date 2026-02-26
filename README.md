@@ -12,7 +12,9 @@ La Programación Orientada a Objetos es un paradigma que nos permite organizar e
 ​3. Anatomía de un Objeto en Python
 
 ​Un objeto se compone principalmente de dos elementos:
+
 ​Atributos (Datos): Son las variables que describen al objeto. Se definen dentro de un método especial llamado __init__ (el constructor).
+
 ​Métodos (Comportamiento): Son funciones que viven dentro del objeto y definen qué puede hacer. Siempre llevan el parámetro self, que es la forma en que el objeto se reconoce a sí mismo.
 
 ​4. Los Pilares de la POO
